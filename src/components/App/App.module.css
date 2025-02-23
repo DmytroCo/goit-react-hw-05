@@ -1,0 +1,6 @@
+.div {
+    height: 70px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid;
+    border-color: aliceblue;
+}
